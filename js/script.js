@@ -619,7 +619,7 @@ function opener(){
                                                 <td class="getMeals">${members["01532023080"].runningMonth().remainDining}</td>
                                                 <td>${members["01532023080"].runningMonth().diningDue}</td>
                                             </tr>
-                                            <tr>
+                                            <tr style="display:'none'">
                                                 <td>${members["01925315230"].name}</td>
                                                 <td>${members["01925315230"].runningDiningCost()}</td>
                                                 <td>${members["01925315230"].runningMonth().diningAdd}</td>
@@ -635,11 +635,11 @@ function opener(){
                                             </tr>
 						<!--
                                             <tr>
-                                                <td>${members["01000000000"].name}</td>
-                                                <td>${members["01000000000"].runningDiningCost()}</td>
-                                                <td>${members["01000000000"].runningMonth().diningAdd}</td>
-                                                <td class="getMeals">${members["01000000000"].runningMonth().remainDining}</td>
-                                                <td>${members["01000000000"].runningMonth().diningDue}</td>
+                                                <td>${members["01645122114"].name}</td>
+                                                <td>${members["01645122114"].runningDiningCost()}</td>
+                                                <td>${members["01645122114"].runningMonth().diningAdd}</td>
+                                                <td class="getMeals">${members["01645122114"].runningMonth().remainDining}</td>
+                                                <td>${members["01645122114"].runningMonth().diningDue}</td>
                                             </tr>
 						-->
                                             <tr>
