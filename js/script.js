@@ -633,7 +633,7 @@ function opener(){
                                                 <td class="getMeals">${members["01640454889"].runningMonth().remainDining}</td>
                                                 <td>${members["01640454889"].runningMonth().diningDue}</td>
                                             </tr>
-						<!--
+						
                                             <tr>
                                                 <td>${members["01645122114"].name}</td>
                                                 <td>${members["01645122114"].runningDiningCost()}</td>
@@ -641,7 +641,7 @@ function opener(){
                                                 <td class="getMeals">${members["01645122114"].runningMonth().remainDining}</td>
                                                 <td>${members["01645122114"].runningMonth().diningDue}</td>
                                             </tr>
-						-->
+						
                                             <tr>
                                                 <td>${members["01714443406"].name}</td>
                                                 <td>${members["01714443406"].runningDiningCost()}</td>
