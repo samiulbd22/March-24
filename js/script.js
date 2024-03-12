@@ -180,10 +180,10 @@ const members = {
     "01645122114":{
         name:"Azmir Hossain Poran",
         // pre-previous month list
-        post_payable        :4070,
-        previous_paid       :6000,
-        previous_dining_cost:1300,
-        payment             :{"03-03-24-Cash":2500},
+        post_payable        :0,
+        previous_paid       :0,
+        previous_dining_cost:0,
+        payment             :{"03-03-24-Cash":2500,"11-03-24-Cash":6000},
         // running month
         stay_cost       :3000,
         garage_cost     :0,
