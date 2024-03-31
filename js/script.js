@@ -205,7 +205,7 @@ const members = {
         payment             :{"06/03/24-Cash":4000,"13/03/24-Cash":2000,"25/03/24-Cash":500},
         // running month
         stay_cost       :3000,
-        garage_cost     :4000,
+        garage_cost     :0,
         running_payable :5313,
         running_paid    :6500,
         running_meal    :52,
